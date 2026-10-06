@@ -1,1 +1,1 @@
-Privacy Page for Solglimt App
+Privacy Page for R-Rommy iOS App
